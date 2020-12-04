@@ -15,8 +15,4 @@
     <ProjectReference Include="..\InvoiceManagementApp.Domain\InvoiceManagementApp.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Invoices\Seller\" />
-  </ItemGroup>
-
 </Project>

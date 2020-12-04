@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QWM51gRih7J2TdJgGx2t3ICZGNe9U0kocnR0KmRL0gFglNZ7n4h8LMOwljoSfRymcO8Fk8RBm8yV76O2cdglKw==",
+  "dgSpecHash": "VfDIwmS9s9N6jbFUXZ33hEEb0GykSyc/fYDjAdo0v8yn3cd5ZMiaEhAhZ3iLJLycjxSV1PMLGTVN7jIeaAntGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master\\InvoiceManagementApp.Infrastructure\\InvoiceManagementApp.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master (2)\\Mi-rubia-master\\InvoiceManagementApp.Infrastructure\\InvoiceManagementApp.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DellUser\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\DellUser\\.nuget\\packages\\fluentvalidation\\9.0.0-preview1\\fluentvalidation.9.0.0-preview1.nupkg.sha512",

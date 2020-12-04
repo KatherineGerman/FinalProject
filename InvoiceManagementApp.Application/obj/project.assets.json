@@ -7145,11 +7145,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master\\InvoiceManagementApp.Application\\InvoiceManagementApp.Application.csproj",
+      "projectUniqueName": "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master (2)\\Mi-rubia-master\\InvoiceManagementApp.Application\\InvoiceManagementApp.Application.csproj",
       "projectName": "InvoiceManagementApp.Application",
-      "projectPath": "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master\\InvoiceManagementApp.Application\\InvoiceManagementApp.Application.csproj",
+      "projectPath": "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master (2)\\Mi-rubia-master\\InvoiceManagementApp.Application\\InvoiceManagementApp.Application.csproj",
       "packagesPath": "C:\\Users\\DellUser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master\\InvoiceManagementApp.Application\\obj\\",
+      "outputPath": "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master (2)\\Mi-rubia-master\\InvoiceManagementApp.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -7169,8 +7169,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master\\InvoiceManagementApp.Domain\\InvoiceManagementApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master\\InvoiceManagementApp.Domain\\InvoiceManagementApp.Domain.csproj"
+            "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master (2)\\Mi-rubia-master\\InvoiceManagementApp.Domain\\InvoiceManagementApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master (2)\\Mi-rubia-master\\InvoiceManagementApp.Domain\\InvoiceManagementApp.Domain.csproj"
             }
           }
         }

@@ -7093,11 +7093,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master\\InvoiceManagementApp.Domain\\InvoiceManagementApp.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master (2)\\Mi-rubia-master\\InvoiceManagementApp.Domain\\InvoiceManagementApp.Domain.csproj",
       "projectName": "InvoiceManagementApp.Domain",
-      "projectPath": "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master\\InvoiceManagementApp.Domain\\InvoiceManagementApp.Domain.csproj",
+      "projectPath": "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master (2)\\Mi-rubia-master\\InvoiceManagementApp.Domain\\InvoiceManagementApp.Domain.csproj",
       "packagesPath": "C:\\Users\\DellUser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master\\InvoiceManagementApp.Domain\\obj\\",
+      "outputPath": "C:\\Users\\DellUser\\Desktop\\Mi-rubia-master (2)\\Mi-rubia-master\\InvoiceManagementApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
